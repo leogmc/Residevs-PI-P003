@@ -1,0 +1,1 @@
+Estar imerso num aprendizado contínuo em tecnologia, aprimorando e agregando novos conhecimentos, e ao mesmo tempo ampliando meu networking com colegas e professores, alcançando um melhor posicionamento no mercado de trabalho e almejando por cargos maiores.
