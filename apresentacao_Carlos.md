@@ -1,0 +1,1 @@
+Meu nome é Carlos, sou graduado em Ciência da Computação e pós-graduado em Engenharia de Software. Possuo 7 anos de experiência na área de análise e desenvolvimento de sistemas, com atuação em diversos projetos de alta e baixa complexidade utilizando tecnologias como Java, Javascript, HTML, CSS, bancos Oracle e SQLServer, entre outros. 
