@@ -1,4 +1,6 @@
+//Carlos
 Estar imerso num aprendizado contínuo em tecnologia, aprimorando e agregando novos conhecimentos, e ao mesmo tempo ampliando meu networking com colegas e professores, alcançando um melhor posicionamento no mercado de trabalho e almejando por cargos maiores.
+
 //Leandro
 Bom, minhas motivações, apesar de serem bem particulares, acredito que tem uma finalidade semelhante aos meus demais colegas, que é conseguir uma carreira de sucesso na área desenvolvimento. Sendo assim, minha expectativas em relação à Residência é conseguir aprender a lidar com a rotina de um desenvolvedor, ter muita prática para construir uma boa base e dessa forma, daqui a 15 meses, definitivamente estarei em um novo nível de conhecimento e me sentindo mais preparado para encarar o mercado de trabalho de desenvolvedores.
 
